@@ -1,0 +1,17 @@
+LIBRARY
+
+EXPORTS
+  GetVersionCharPtr
+  GetVersionCharPtr_2
+  GetVersionBSTR
+  SetVersionCharPtr
+  SetVersionBSTR
+  GetVersionCharPtrPtr
+  GetVersionBSTRPtr
+  GetVersionBuffer
+  SetVersionA
+  SetVersionW
+  GetLastVersionFunctionName
+  SetStringArray
+  GetStringArray
+

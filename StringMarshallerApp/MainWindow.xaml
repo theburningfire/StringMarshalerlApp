@@ -1,0 +1,46 @@
+﻿<Window x:Class="StringMarshallerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="0" Content="Get Version: return char *" Name="buttonGetVersionCharPtr" Click="buttonGetVersionCharPtr_Click"/>
+        <Button Grid.Row="2" Content="Get Version: return char *" Name="buttonGetVersionCharPtr_2" Click="buttonGetVersionCharPtr_2_Click"/>
+        <Button Grid.Row="4" Content="Get Version: return BSTR" Name="buttonGetVersionBSTR" Click="buttonGetVersionBSTR_Click"/>
+        <Button Grid.Row="6" Content="Set Version: char * Parameter" Name="buttonSetVersionCharPtr" Click="buttonSetVersionCharPtr_Click"/>
+        <Button Grid.Row="8" Content="Set Version: BSTR Parameter" Name="buttonSetVersionBSTR" Click="buttonSetVersionBSTR_Click"/>
+        <Button Grid.Row="10" Content="Get Version: char ** Parameter" Name="buttonGetVersionCharPtrPtr" Click="buttonGetVersionCharPtrPtr_Click"/>
+        <Button Grid.Row="12" Content="Get Version: BSTR * Parameter" Name="buttonGetVersionBSTRPtr" Click="buttonGetVersionBSTRPtr_Click"/>
+        <Button Grid.Row="14" Content="Get Version: Buffer Parameter" Name="buttonGetVersionBuffer" Click="buttonGetVersionBuffer_Click"/>
+        <Button Grid.Row="16" Content="Set Version" Name="buttonSetVersion" Click="buttonSetVersion_Click"/>
+        <Button Grid.Row="18" Content="Set String Array" Name="buttonSetStringArray" Click="buttonSetStringArray_Click"/>
+        <TextBox Grid.Row="0" Grid.Column="2" Text="{Binding DisplayText}" HorizontalAlignment="Stretch"/>
+    </Grid>
+</Window>
