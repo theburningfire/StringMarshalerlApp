@@ -1,0 +1,13 @@
+D:\StringMarshallerApp\StringMarshallerApp\Release\StringMarshallerApp.exe.config
+D:\StringMarshallerApp\StringMarshallerApp\Release\StringMarshallerApp.exe
+D:\StringMarshallerApp\StringMarshallerApp\Release\StringMarshallerApp.pdb
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\StringMarshallerApp.csprojResolveAssemblyReference.cache
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\MainWindow.baml
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\MainWindow.g.cs
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\App.g.cs
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\StringMarshallerApp_MarkupCompile.cache
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\StringMarshallerApp.g.resources
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\StringMarshallerApp.Properties.Resources.resources
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\StringMarshallerApp.csproj.GenerateResource.Cache
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\StringMarshallerApp.exe
+D:\StringMarshallerApp\StringMarshallerApp\StringMarshallerApp\obj\Release\StringMarshallerApp.pdb

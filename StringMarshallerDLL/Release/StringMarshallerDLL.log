@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  StringMarshallerDLL.cpp
+     Creating library D:\StringMarshallerApp\StringMarshallerApp\Release\StringMarshallerDLL.lib and object D:\StringMarshallerApp\StringMarshallerApp\Release\StringMarshallerDLL.exp
+  Generating code
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StringMarshallerDLL.vcxproj -> D:\StringMarshallerApp\StringMarshallerApp\Release\StringMarshallerDLL.dll
+  StringMarshallerDLL.vcxproj -> D:\StringMarshallerApp\StringMarshallerApp\Release\StringMarshallerDLL.pdb (Full PDB)
